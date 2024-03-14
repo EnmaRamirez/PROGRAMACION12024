@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E50B7D-A01F-47C3-813D-AE5A83051486}|ProgramMontos\\ProgramMontos.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios de la semana 6\\programmontos\\programmontos\\montos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E50B7D-A01F-47C3-813D-AE5A83051486}|ProgramMontos\\ProgramMontos.csproj|solutionrelative:programmontos\\montos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E50B7D-A01F-47C3-813D-AE5A83051486}|ProgramMontos\\ProgramMontos.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios de la semana 6\\programmontos\\programmontos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E50B7D-A01F-47C3-813D-AE5A83051486}|ProgramMontos\\ProgramMontos.csproj|solutionrelative:programmontos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Montos.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\Montos.cs",
+              "RelativeDocumentMoniker": "ProgramMontos\\Montos.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\Montos.cs",
+              "RelativeToolTip": "ProgramMontos\\Montos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:26:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\Program.cs",
+              "RelativeDocumentMoniker": "ProgramMontos\\Program.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\Program.cs",
+              "RelativeToolTip": "ProgramMontos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:25:54.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

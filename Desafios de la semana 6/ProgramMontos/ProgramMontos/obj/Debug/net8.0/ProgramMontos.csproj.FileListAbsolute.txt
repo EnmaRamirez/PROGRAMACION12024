@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\bin\Debug\net8.0\ProgramMontos.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\bin\Debug\net8.0\ProgramMontos.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\bin\Debug\net8.0\ProgramMontos.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\bin\Debug\net8.0\ProgramMontos.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\bin\Debug\net8.0\ProgramMontos.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\refint\ProgramMontos.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ProgramMontos.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\ProgramMontos\ProgramMontos\obj\Debug\net8.0\ref\ProgramMontos.dll
