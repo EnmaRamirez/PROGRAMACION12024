@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\bin\Debug\net8.0\SuperficieFrontal.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\bin\Debug\net8.0\SuperficieFrontal.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\bin\Debug\net8.0\SuperficieFrontal.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\bin\Debug\net8.0\SuperficieFrontal.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\bin\Debug\net8.0\SuperficieFrontal.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\refint\SuperficieFrontal.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\SuperficieFrontal.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\SuperficieFrontal\SuperficieFrontal\obj\Debug\net8.0\ref\SuperficieFrontal.dll

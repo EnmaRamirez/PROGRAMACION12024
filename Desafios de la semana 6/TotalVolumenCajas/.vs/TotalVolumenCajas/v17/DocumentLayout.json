@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\TotalVolumenCajas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D02E999-6DC6-4BDB-AAC7-5719278FC357}|TotalVolumenCajas\\TotalVolumenCajas.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios de la semana 6\\totalvolumencajas\\totalvolumencajas\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D02E999-6DC6-4BDB-AAC7-5719278FC357}|TotalVolumenCajas\\TotalVolumenCajas.csproj|solutionrelative:totalvolumencajas\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caja.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\TotalVolumenCajas\\TotalVolumenCajas\\Caja.cs",
+              "RelativeDocumentMoniker": "TotalVolumenCajas\\Caja.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\TotalVolumenCajas\\TotalVolumenCajas\\Caja.cs",
+              "RelativeToolTip": "TotalVolumenCajas\\Caja.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:05:49.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

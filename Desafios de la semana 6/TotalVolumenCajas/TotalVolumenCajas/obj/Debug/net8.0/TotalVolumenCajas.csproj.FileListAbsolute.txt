@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\bin\Debug\net8.0\TotalVolumenCajas.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\bin\Debug\net8.0\TotalVolumenCajas.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\bin\Debug\net8.0\TotalVolumenCajas.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\bin\Debug\net8.0\TotalVolumenCajas.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\bin\Debug\net8.0\TotalVolumenCajas.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\refint\TotalVolumenCajas.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\TotalVolumenCajas.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\TotalVolumenCajas\TotalVolumenCajas\obj\Debug\net8.0\ref\TotalVolumenCajas.dll

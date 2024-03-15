@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\bin\Debug\net8.0\Promedios.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\bin\Debug\net8.0\Promedios.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\bin\Debug\net8.0\Promedios.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\bin\Debug\net8.0\Promedios.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\bin\Debug\net8.0\Promedios.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\refint\Promedios.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\Promedios.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios de la semana 6\Promedios\Promedios\obj\Debug\net8.0\ref\Promedios.dll
