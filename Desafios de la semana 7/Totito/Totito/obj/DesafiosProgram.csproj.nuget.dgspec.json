@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\Totito\\Totito\\DesafiosProgram.csproj": {}
+    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\Totito\\Totito\\DesafiosProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\Totito\\Totito\\DesafiosProgram.csproj": {
+    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\Totito\\Totito\\DesafiosProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\Totito\\Totito\\DesafiosProgram.csproj",
+        "projectUniqueName": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\Totito\\Totito\\DesafiosProgram.csproj",
         "projectName": "DesafiosProgram",
-        "projectPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\Totito\\Totito\\DesafiosProgram.csproj",
+        "projectPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\Totito\\Totito\\DesafiosProgram.csproj",
         "packagesPath": "C:\\Users\\enma2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\Totito\\Totito\\obj\\",
+        "outputPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\Totito\\Totito\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enma2\\AppData\\Roaming\\NuGet\\NuGet.Config",

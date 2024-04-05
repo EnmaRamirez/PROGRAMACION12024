@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\bin\Debug\net8.0\ClaseSubclase.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\bin\Debug\net8.0\ClaseSubclase.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\bin\Debug\net8.0\ClaseSubclase.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\bin\Debug\net8.0\ClaseSubclase.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\bin\Debug\net8.0\ClaseSubclase.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\refint\ClaseSubclase.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ClaseSubclase.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseSubclase\obj\Debug\net8.0\ref\ClaseSubclase.dll

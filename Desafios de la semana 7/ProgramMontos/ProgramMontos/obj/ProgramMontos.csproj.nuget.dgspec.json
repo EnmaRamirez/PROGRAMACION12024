@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj": {}
+    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj": {
+    "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj",
+        "projectUniqueName": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj",
         "projectName": "ProgramMontos",
-        "projectPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj",
+        "projectPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ProgramMontos\\ProgramMontos\\ProgramMontos.csproj",
         "packagesPath": "C:\\Users\\enma2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ProgramMontos\\ProgramMontos\\obj\\",
+        "outputPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ProgramMontos\\ProgramMontos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enma2\\AppData\\Roaming\\NuGet\\NuGet.Config",

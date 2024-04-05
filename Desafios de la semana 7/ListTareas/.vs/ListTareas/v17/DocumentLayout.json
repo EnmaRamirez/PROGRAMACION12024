@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ListTareas\\",
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ListTareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0020F9C-AFF7-4BB0-9090-B76F541CE588}|ListTareas\\ListTareas.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios de la semana 6\\listtareas\\listtareas\\listadetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0020F9C-AFF7-4BB0-9090-B76F541CE588}|ListTareas\\ListTareas.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios de la semana 7\\listtareas\\listtareas\\listadetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0020F9C-AFF7-4BB0-9090-B76F541CE588}|ListTareas\\ListTareas.csproj|solutionrelative:listtareas\\listadetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0020F9C-AFF7-4BB0-9090-B76F541CE588}|ListTareas\\ListTareas.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios de la semana 6\\listtareas\\listtareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0020F9C-AFF7-4BB0-9090-B76F541CE588}|ListTareas\\ListTareas.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios de la semana 7\\listtareas\\listtareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0020F9C-AFF7-4BB0-9090-B76F541CE588}|ListTareas\\ListTareas.csproj|solutionrelative:listtareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ListaDeTareas.cs",
-              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ListTareas\\ListTareas\\ListaDeTareas.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ListTareas\\ListTareas\\ListaDeTareas.cs",
               "RelativeDocumentMoniker": "ListTareas\\ListaDeTareas.cs",
-              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ListTareas\\ListTareas\\ListaDeTareas.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ListTareas\\ListTareas\\ListaDeTareas.cs",
               "RelativeToolTip": "ListTareas\\ListaDeTareas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ListTareas\\ListTareas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ListTareas\\ListTareas\\Program.cs",
               "RelativeDocumentMoniker": "ListTareas\\Program.cs",
-              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 6\\ListTareas\\ListTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios de la semana 7\\ListTareas\\ListTareas\\Program.cs",
               "RelativeToolTip": "ListTareas\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T06:47:12.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T06:47:12.316Z"
             }
           ]
         }

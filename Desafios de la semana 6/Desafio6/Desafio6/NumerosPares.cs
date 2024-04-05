@@ -25,6 +25,9 @@ namespace Desafio6
 
                 }
             }
+            Calcular calcular = new Calcular();
+            calcular.CalcularMetodo();
+
         }
     }
 }

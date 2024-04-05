@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\bin\Debug\net8.0\Interfaz.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\bin\Debug\net8.0\Interfaz.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\bin\Debug\net8.0\Interfaz.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\bin\Debug\net8.0\Interfaz.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\bin\Debug\net8.0\Interfaz.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\refint\Interfaz.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\Interfaz.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\Interfaz\obj\Debug\net8.0\ref\Interfaz.dll
