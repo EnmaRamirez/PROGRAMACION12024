@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\bin\Debug\net8.0\ExpresionesRegulares.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\refint\ExpresionesRegulares.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ExpresionesRegulares.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio Sema 9\ExpresionesRegurales\ExpresionesRegulares\obj\Debug\net8.0\ref\ExpresionesRegulares.dll

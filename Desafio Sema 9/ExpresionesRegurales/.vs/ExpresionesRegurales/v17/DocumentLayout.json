@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafio Sema 9\\ExpresionesRegurales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEF5370-FD6D-41F0-B33F-BF7FDF042B3F}|ExpresionesRegulares\\ExpresionesRegulares.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafio sema 9\\expresionesregurales\\expresionesregulares\\exregulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEF5370-FD6D-41F0-B33F-BF7FDF042B3F}|ExpresionesRegulares\\ExpresionesRegulares.csproj|solutionrelative:expresionesregulares\\exregulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExRegulares.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafio Sema 9\\ExpresionesRegurales\\ExpresionesRegulares\\ExRegulares.cs",
+              "RelativeDocumentMoniker": "ExpresionesRegulares\\ExRegulares.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafio Sema 9\\ExpresionesRegurales\\ExpresionesRegulares\\ExRegulares.cs",
+              "RelativeToolTip": "ExpresionesRegulares\\ExRegulares.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:47:42.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
