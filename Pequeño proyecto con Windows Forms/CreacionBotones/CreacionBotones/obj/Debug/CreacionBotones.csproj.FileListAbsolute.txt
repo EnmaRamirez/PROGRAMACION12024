@@ -1,0 +1,10 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\bin\Debug\CreacionBotones.exe.config
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\bin\Debug\CreacionBotones.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\bin\Debug\CreacionBotones.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\obj\Debug\CreacionBotones.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\obj\Debug\CreacionBotones.Form1.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\obj\Debug\CreacionBotones.Properties.Resources.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\obj\Debug\CreacionBotones.csproj.GenerateResource.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\obj\Debug\CreacionBotones.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\obj\Debug\CreacionBotones.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\CreacionBotones\obj\Debug\CreacionBotones.pdb
