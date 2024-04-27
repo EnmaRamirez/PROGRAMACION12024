@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Promedios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10edede13b649833f86d0fef233e120393e7462c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8aba32301b0be46aa2185723cb17daf857c7056")]
 [assembly: System.Reflection.AssemblyProductAttribute("Promedios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Promedios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

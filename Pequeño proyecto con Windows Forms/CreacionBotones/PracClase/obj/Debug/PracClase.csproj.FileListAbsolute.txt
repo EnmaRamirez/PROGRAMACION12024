@@ -1,0 +1,8 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\PracClase.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\BindingWindow2.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\GridWindow2.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\MainWindow.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\Window1.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\App.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\PracClase_MarkupCompile.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Pequeño proyecto con Windows Forms\CreacionBotones\PracClase\obj\Debug\PracClase_MarkupCompile.lref

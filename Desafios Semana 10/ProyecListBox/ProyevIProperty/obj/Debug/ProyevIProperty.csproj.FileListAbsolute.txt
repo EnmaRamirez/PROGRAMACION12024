@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\MainWindow.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\App.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty_MarkupCompile.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty_MarkupCompile.lref
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\bin\Debug\ProyevIProperty.exe.config
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\bin\Debug\ProyevIProperty.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\bin\Debug\ProyevIProperty.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\MainWindow.baml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty.g.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty.Properties.Resources.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty.csproj.GenerateResource.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyevIProperty\obj\Debug\ProyevIProperty.pdb

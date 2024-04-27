@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NumerosPrimos
 {
-    internal class NumerosPrimos
+    public class NumerosPrimos
     {
         static void Main(string[] args)
         {
