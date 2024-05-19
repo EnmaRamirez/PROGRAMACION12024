@@ -1,5 +1,0 @@
-C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyecListBox\obj\Debug\ProyecListBox.csproj.AssemblyReference.cache
-C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyecListBox\obj\Debug\MainWindow.g.cs
-C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyecListBox\obj\Debug\App.g.cs
-C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyecListBox\obj\Debug\ProyecListBox_MarkupCompile.cache
-C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios Semana 10\ProyecListBox\ProyecListBox\obj\Debug\ProyecListBox_MarkupCompile.lref

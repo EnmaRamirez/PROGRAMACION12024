@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadoracientifica\\calculadoracientifica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadoracientifica\\calculadoracientifica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadoracientifica\\calculadoracientifica\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadoracientifica\\calculadoracientifica\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadoracientifica\\calculadoracientifica\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB86693-90C0-48F5-B08E-92ABAF497429}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\App.xaml.cs",
+              "RelativeToolTip": "CalculadoraCientifica\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:00:28.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculadoraCientifica.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\CalculadoraCientifica.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\CalculadoraCientifica.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\CalculadoraCientifica.cs",
+              "RelativeToolTip": "CalculadoraCientifica\\CalculadoraCientifica.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:59:31.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraCientifica\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:58:09.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\MainWindow.xaml",
+              "RelativeToolTip": "CalculadoraCientifica\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T18:57:39.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\CalculadoraCientifica\\CalculadoraCientifica\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CalculadoraCientifica\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:57:39.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

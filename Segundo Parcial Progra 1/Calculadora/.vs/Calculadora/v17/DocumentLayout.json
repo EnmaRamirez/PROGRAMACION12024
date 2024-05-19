@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadora\\calculadora\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\calculadora\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadora\\calculadora\\calcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\segundo parcial progra 1\\calculadora\\calculadora\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\calculadora\\calcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F10A3F-2712-4E50-A04E-6A8A0C52D18C}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,20 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Calcu.cs",
-              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\Calculadora\\Calcu.cs",
-              "RelativeDocumentMoniker": "Calculadora\\Calcu.cs",
-              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\Calculadora\\Calcu.cs",
-              "RelativeToolTip": "Calculadora\\Calcu.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T16:55:39.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\Calculadora\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Calculadora\\MainWindow.xaml",
@@ -51,15 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\Calculadora\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Calculadora\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\Calculadora\\MainWindow.xaml.cs",
               "RelativeToolTip": "Calculadora\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABsAAAAKAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:51:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calcu.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\Calculadora\\Calcu.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calcu.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Segundo Parcial Progra 1\\Calculadora\\Calculadora\\Calcu.cs",
+              "RelativeToolTip": "Calculadora\\Calcu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:55:39.338Z",
               "EditorCaption": ""
             }
           ]

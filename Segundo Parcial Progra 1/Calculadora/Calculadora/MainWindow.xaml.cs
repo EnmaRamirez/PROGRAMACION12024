@@ -23,10 +23,10 @@ namespace Calculadora
         public MainWindow()
         {
             InitializeComponent();
-            ObjetoSuma = new Calcu { Num1 = "5", Num2 = "5" };
+            ObjetoSuma= new Calcu { Num1 = "5", Num2 = "5" };
             this.DataContext = ObjetoSuma;
           
         }
-        public object ObjetoSuma { get; private set; }
+        public object ObjetoSuma{ get; private set; }
     }
 }
