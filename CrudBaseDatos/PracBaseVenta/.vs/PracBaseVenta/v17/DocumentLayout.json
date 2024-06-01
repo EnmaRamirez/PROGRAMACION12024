@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\crudbasedatos\\pracbaseventa\\pracbaseventa\\insertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|solutionrelative:pracbaseventa\\insertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\pracbaseventa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|solutionrelative:pracbaseventa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\pracbaseventa\\insertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|solutionrelative:pracbaseventa\\insertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ENMA2_ONEDRIVE_ESCRITORIO_TAREAS_DE_PROGRAMACION12024_CRUDBASEDATOS_PRACBASEVENTA_PRACBASEVENTA_DATABASE1.MDF/True/SqlTable/dbo.Venta.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\SQLQuery3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\pracbaseventa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|solutionrelative:pracbaseventa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\pracbaseventa\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|solutionrelative:pracbaseventa\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\pracbaseventa\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9C473B-FC47-442A-95AD-DB1A8BDCD7A9}|PracBaseVenta\\PracBaseVenta.csproj|solutionrelative:pracbaseventa\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\DataAccess.cs",
+              "RelativeDocumentMoniker": "PracBaseVenta\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\DataAccess.cs",
+              "RelativeToolTip": "PracBaseVenta\\DataAccess.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:37:34.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\InsertWindow.xaml",
+              "RelativeDocumentMoniker": "PracBaseVenta\\InsertWindow.xaml",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\InsertWindow.xaml",
+              "RelativeToolTip": "PracBaseVenta\\InsertWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T04:49:16.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PracBaseVenta\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\MainWindow.xaml",
+              "RelativeToolTip": "PracBaseVenta\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T22:39:06.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\InsertWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracBaseVenta\\InsertWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\InsertWindow.xaml.cs",
+              "RelativeToolTip": "PracBaseVenta\\InsertWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:05:31.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PracBaseVenta\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PracBaseVenta\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:39:04.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery3.sql",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\SQLQuery3.sql",
+              "RelativeDocumentMoniker": "..\\SQLQuery3.sql",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\SQLQuery3.sql",
+              "RelativeToolTip": "..\\SQLQuery3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-25T01:49:11.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Venta [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ENMA2_ONEDRIVE_ESCRITORIO_TAREAS_DE_PROGRAMACION12024_CRUDBASEDATOS_PRACBASEVENTA_PRACBASEVENTA_DATABASE1.MDF/True/SqlTable/dbo.Venta.sql",
+              "ToolTip": "dbo.Venta [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-23T23:46:41.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-23T23:39:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\Venta.cs",
+              "RelativeDocumentMoniker": "PracBaseVenta\\Venta.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\CrudBaseDatos\\PracBaseVenta\\PracBaseVenta\\Venta.cs",
+              "RelativeToolTip": "PracBaseVenta\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:52:09.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

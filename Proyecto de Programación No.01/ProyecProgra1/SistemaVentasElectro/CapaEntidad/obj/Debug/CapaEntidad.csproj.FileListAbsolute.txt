@@ -1,0 +1,6 @@
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaEntidad\obj\Debug\CapaEntidad.pdb

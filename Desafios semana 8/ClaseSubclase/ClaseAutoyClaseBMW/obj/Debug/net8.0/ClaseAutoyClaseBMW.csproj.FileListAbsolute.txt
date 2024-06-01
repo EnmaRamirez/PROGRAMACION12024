@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\bin\Debug\net8.0\ClaseAutoyClaseBMW.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\bin\Debug\net8.0\ClaseAutoyClaseBMW.deps.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\bin\Debug\net8.0\ClaseAutoyClaseBMW.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\bin\Debug\net8.0\ClaseAutoyClaseBMW.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\bin\Debug\net8.0\ClaseAutoyClaseBMW.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.sourcelink.json
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\refint\ClaseAutoyClaseBMW.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ClaseAutoyClaseBMW.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafios semana 8\ClaseSubclase\ClaseAutoyClaseBMW\obj\Debug\net8.0\ref\ClaseAutoyClaseBMW.dll

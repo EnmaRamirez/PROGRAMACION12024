@@ -1,0 +1,174 @@
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\enma2\OneDrive\Escritorio\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de  Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\Irony.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\XLParser.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.IO.Packaging.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteVentas.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Proyecto de Programación No.01\ProyecProgra1\SistemaVentasElectro\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

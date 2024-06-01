@@ -1,0 +1,5 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Segundo Parcial Progra 1\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Segundo Parcial Progra 1\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\MainWindow.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Segundo Parcial Progra 1\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\App.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Segundo Parcial Progra 1\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica_MarkupCompile.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Segundo Parcial Progra 1\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica_MarkupCompile.lref

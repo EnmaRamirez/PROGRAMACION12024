@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{094DD767-4DAE-4381-AF0C-ACBCF551B744}|ClaseAutoyClaseBMW\\ClaseAutoyClaseBMW.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios semana 8\\clasesubclase\\claseautoyclasebmw\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094DD767-4DAE-4381-AF0C-ACBCF551B744}|ClaseAutoyClaseBMW\\ClaseAutoyClaseBMW.csproj|solutionrelative:claseautoyclasebmw\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094DD767-4DAE-4381-AF0C-ACBCF551B744}|ClaseAutoyClaseBMW\\ClaseAutoyClaseBMW.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios semana 8\\clasesubclase\\claseautoyclasebmw\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094DD767-4DAE-4381-AF0C-ACBCF551B744}|ClaseAutoyClaseBMW\\ClaseAutoyClaseBMW.csproj|solutionrelative:claseautoyclasebmw\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E4792A-EDF1-4814-9AC3-0CE4E6CF6127}|Interfaz\\Interfaz.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios semana 8\\clasesubclase\\interfaz\\inotificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E4792A-EDF1-4814-9AC3-0CE4E6CF6127}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\inotificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074A678C-D970-4E0C-8086-08CD9C33252D}|ClaseSubclase\\ClaseSubclase.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios semana 8\\clasesubclase\\clasesubclase\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074A678C-D970-4E0C-8086-08CD9C33252D}|ClaseSubclase\\ClaseSubclase.csproj|solutionrelative:clasesubclase\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074A678C-D970-4E0C-8086-08CD9C33252D}|ClaseSubclase\\ClaseSubclase.csproj|c:\\users\\enma2\\onedrive\\escritorio\\tareas de programacion12024\\desafios semana 8\\clasesubclase\\clasesubclase\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{074A678C-D970-4E0C-8086-08CD9C33252D}|ClaseSubclase\\ClaseSubclase.csproj|solutionrelative:clasesubclase\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseAutoyClaseBMW\\BMW.cs",
+              "RelativeDocumentMoniker": "ClaseAutoyClaseBMW\\BMW.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseAutoyClaseBMW\\BMW.cs",
+              "RelativeToolTip": "ClaseAutoyClaseBMW\\BMW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:57:48.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseAutoyClaseBMW\\Auto.cs",
+              "RelativeDocumentMoniker": "ClaseAutoyClaseBMW\\Auto.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseAutoyClaseBMW\\Auto.cs",
+              "RelativeToolTip": "ClaseAutoyClaseBMW\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:38:28.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotificable.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\Interfaz\\INotificable.cs",
+              "RelativeDocumentMoniker": "Interfaz\\INotificable.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\Interfaz\\INotificable.cs",
+              "RelativeToolTip": "Interfaz\\INotificable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:35:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseSubclase\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ClaseSubclase\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseSubclase\\Calculadora.cs",
+              "RelativeToolTip": "ClaseSubclase\\Calculadora.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:02:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraCientifica.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseSubclase\\CalculadoraCientifica.cs",
+              "RelativeDocumentMoniker": "ClaseSubclase\\CalculadoraCientifica.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\TAREAS DE PROGRAMACION12024\\Desafios semana 8\\ClaseSubclase\\ClaseSubclase\\CalculadoraCientifica.cs",
+              "RelativeToolTip": "ClaseSubclase\\CalculadoraCientifica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:33:51.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

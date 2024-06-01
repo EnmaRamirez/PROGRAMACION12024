@@ -1,0 +1,15 @@
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\bin\Debug\PromedioJugadores.exe.config
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\bin\Debug\PromedioJugadores.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\bin\Debug\PromedioJugadores.pdb
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores.csproj.AssemblyReference.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\MainWindow.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\App.g.cs
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores_MarkupCompile.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores_MarkupCompile.lref
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\MainWindow.baml
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores.g.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores.Properties.Resources.resources
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores.csproj.GenerateResource.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores.exe
+C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\Desafio de la semana 10\PromedioJugadores\PromedioJugadores\obj\Debug\PromedioJugadores.pdb
