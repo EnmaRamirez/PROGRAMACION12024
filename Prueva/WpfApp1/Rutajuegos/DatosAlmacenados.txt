@@ -1,0 +1,4 @@
+Barcelona,3,2
+PSG,3,5
+BVB Dormundt,0,5
+Man United,1,1

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{DC618308-E0DC-4E24-A905-3F9B97A77F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueva2", "Prueva2\Prueva2.csproj", "{D5BF197C-3C28-472D-A296-C409752CD21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rutajuegos", "Rutajuegos\Rutajuegos.csproj", "{59FC03DC-A47D-40B5-98ED-25197F5F83EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC618308-E0DC-4E24-A905-3F9B97A77F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC618308-E0DC-4E24-A905-3F9B97A77F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC618308-E0DC-4E24-A905-3F9B97A77F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC618308-E0DC-4E24-A905-3F9B97A77F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BF197C-3C28-472D-A296-C409752CD21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BF197C-3C28-472D-A296-C409752CD21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BF197C-3C28-472D-A296-C409752CD21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BF197C-3C28-472D-A296-C409752CD21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FC03DC-A47D-40B5-98ED-25197F5F83EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FC03DC-A47D-40B5-98ED-25197F5F83EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FC03DC-A47D-40B5-98ED-25197F5F83EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FC03DC-A47D-40B5-98ED-25197F5F83EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {313C33E2-8FC8-43D8-ABA2-B96F2F6D591C}
+	EndGlobalSection
+EndGlobal

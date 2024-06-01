@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC03DC-A47D-40B5-98ED-25197F5F83EB}|Rutajuegos\\Rutajuegos.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\rutajuegos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59FC03DC-A47D-40B5-98ED-25197F5F83EB}|Rutajuegos\\Rutajuegos.csproj|solutionrelative:rutajuegos\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC03DC-A47D-40B5-98ED-25197F5F83EB}|Rutajuegos\\Rutajuegos.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\rutajuegos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC03DC-A47D-40B5-98ED-25197F5F83EB}|Rutajuegos\\Rutajuegos.csproj|solutionrelative:rutajuegos\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC03DC-A47D-40B5-98ED-25197F5F83EB}|Rutajuegos\\Rutajuegos.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\rutajuegos\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC03DC-A47D-40B5-98ED-25197F5F83EB}|Rutajuegos\\Rutajuegos.csproj|solutionrelative:rutajuegos\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BF197C-3C28-472D-A296-C409752CD21B}|Prueva2\\Prueva2.csproj|c:\\users\\enma2\\onedrive\\escritorio\\prueva\\wpfapp1\\prueva2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5BF197C-3C28-472D-A296-C409752CD21B}|Prueva2\\Prueva2.csproj|solutionrelative:prueva2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BF197C-3C28-472D-A296-C409752CD21B}|Prueva2\\Prueva2.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\prueva2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BF197C-3C28-472D-A296-C409752CD21B}|Prueva2\\Prueva2.csproj|solutionrelative:prueva2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\wpfapp1\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DC618308-E0DC-4E24-A905-3F9B97A77F8B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Prueva2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BF197C-3C28-472D-A296-C409752CD21B}|Prueva2\\Prueva2.csproj|C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\prueva2\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BF197C-3C28-472D-A296-C409752CD21B}|Prueva2\\Prueva2.csproj|solutionrelative:prueva2\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Rutajuegos\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Rutajuegos\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Rutajuegos\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Rutajuegos\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:23:48.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-23T05:49:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Prueva2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\MainWindow.xaml",
+              "RelativeToolTip": "Prueva2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-26T19:01:01.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:49:25.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Rutajuegos\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Rutajuegos\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Rutajuegos\\MainWindow.xaml",
+              "RelativeToolTip": "Rutajuegos\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T21:23:48.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\Juego.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Juego.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\Juego.cs",
+              "RelativeToolTip": "WpfApp1\\Juego.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:53:28.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Rutajuegos\\Juego.cs",
+              "RelativeDocumentMoniker": "Rutajuegos\\Juego.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Rutajuegos\\Juego.cs",
+              "RelativeToolTip": "Rutajuegos\\Juego.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:27:03.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Prueva2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Prueva2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:01:01.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\App.config",
+              "RelativeDocumentMoniker": "WpfApp1\\App.config",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\App.config",
+              "RelativeToolTip": "WpfApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-18T06:55:42.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T06:23:02.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prueva2",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\Prueva2.csproj",
+              "RelativeDocumentMoniker": "Prueva2\\Prueva2.csproj",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\Prueva2.csproj",
+              "RelativeToolTip": "Prueva2\\Prueva2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-02T19:24:41.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\Juego.cs",
+              "RelativeDocumentMoniker": "Prueva2\\Juego.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\Prueva\\WpfApp1\\Prueva2\\Juego.cs",
+              "RelativeToolTip": "Prueva2\\Juego.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:03:55.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
