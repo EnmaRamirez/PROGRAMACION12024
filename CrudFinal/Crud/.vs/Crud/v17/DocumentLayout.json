@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Progra2024\\CrudFinal\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|c:\\progra2024\\crudfinal\\crud\\micrud\\crearalumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|solutionrelative:micrud\\crearalumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|c:\\progra2024\\crudfinal\\crud\\micrud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|solutionrelative:micrud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|c:\\progra2024\\crudfinal\\crud\\micrud\\crearalumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|solutionrelative:micrud\\crearalumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|c:\\progra2024\\crudfinal\\crud\\micrud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|solutionrelative:micrud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|c:\\progra2024\\crudfinal\\crud\\micrud\\updatealumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|solutionrelative:micrud\\updatealumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|c:\\progra2024\\crudfinal\\crud\\micrud\\updatealumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|solutionrelative:micrud\\updatealumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|c:\\progra2024\\crudfinal\\crud\\micrud\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3A193A-60FF-4BE4-9887-9CEC991D5BEF}|MiCrud\\MiCrud.csproj|solutionrelative:micrud\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrearAlumno.xaml.cs",
+              "DocumentMoniker": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\CrearAlumno.xaml.cs",
+              "RelativeDocumentMoniker": "MiCrud\\CrearAlumno.xaml.cs",
+              "ToolTip": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\CrearAlumno.xaml.cs",
+              "RelativeToolTip": "MiCrud\\CrearAlumno.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:01:37.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MiCrud\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MiCrud\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA0wCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:40:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MiCrud\\MainWindow.xaml",
+              "ToolTip": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\MainWindow.xaml",
+              "RelativeToolTip": "MiCrud\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T17:40:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\DataAccess.cs",
+              "RelativeDocumentMoniker": "MiCrud\\DataAccess.cs",
+              "ToolTip": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\DataAccess.cs",
+              "RelativeToolTip": "MiCrud\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:55:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearAlumno.xaml",
+              "DocumentMoniker": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\CrearAlumno.xaml",
+              "RelativeDocumentMoniker": "MiCrud\\CrearAlumno.xaml",
+              "ToolTip": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\CrearAlumno.xaml",
+              "RelativeToolTip": "MiCrud\\CrearAlumno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T17:59:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateAlumno.xaml",
+              "DocumentMoniker": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\UpdateAlumno.xaml",
+              "RelativeDocumentMoniker": "MiCrud\\UpdateAlumno.xaml",
+              "ToolTip": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\UpdateAlumno.xaml",
+              "RelativeToolTip": "MiCrud\\UpdateAlumno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T18:03:24.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateAlumno.xaml.cs",
+              "DocumentMoniker": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\UpdateAlumno.xaml.cs",
+              "RelativeDocumentMoniker": "MiCrud\\UpdateAlumno.xaml.cs",
+              "ToolTip": "C:\\Progra2024\\CrudFinal\\Crud\\MiCrud\\UpdateAlumno.xaml.cs",
+              "RelativeToolTip": "MiCrud\\UpdateAlumno.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:04:19.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
