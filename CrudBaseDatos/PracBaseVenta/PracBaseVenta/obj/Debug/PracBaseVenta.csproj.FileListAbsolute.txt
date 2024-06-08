@@ -20,3 +20,12 @@ C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\CrudBaseDatos\Pra
 C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\bin\Debug\Dapper.xml
 C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\PracBase.073F757E.Up2Date
 C:\Users\enma2\OneDrive\Escritorio\TAREAS DE PROGRAMACION12024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\InsertWindow.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\PracBaseVenta.csproj.AssemblyReference.cache
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\InsertWindow.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\MainWindow.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\App.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\PracBaseVenta_Content.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\PracBaseVenta_MarkupCompile.cache
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\PracBaseVenta_MarkupCompile.lref
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\PracBaseVenta.exe
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseVenta\obj\Debug\PracBaseVenta.pdb

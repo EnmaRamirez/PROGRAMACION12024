@@ -1,0 +1,25 @@
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\bin\Debug\Database1.mdf
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\bin\Debug\Database1_log.ldf
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\bin\Debug\PracBaseAlumno.exe.config
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\bin\Debug\PracBaseAlumno.exe
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\bin\Debug\PracBaseAlumno.pdb
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno.csproj.AssemblyReference.cache
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\MainWindow.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\App.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno_Content.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno_MarkupCompile.cache
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno_MarkupCompile.lref
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\MainWindow.baml
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno.g.resources
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno.Properties.Resources.resources
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno.csproj.GenerateResource.cache
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno.csproj.CoreCompileInputs.cache
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno.exe
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBaseAlumno.pdb
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\bin\Debug\Dapper.dll
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\bin\Debug\Dapper.xml
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\PracBase.F2FB2308.Up2Date
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\InsertWindow.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\UpdateWindow - Copia.g.cs
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\InsertWindow.baml
+C:\Progra2024\CrudBaseDatos\PracBaseVenta\PracBaseAlumno\obj\Debug\UpdateWindow - Copia.baml
